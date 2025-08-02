@@ -126,4 +126,4 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "YOUR_GOOGLE_CREDENTIALS_JSON_PAT
 DEEPGRAM_API_KEY = "YOUR_DEEPGRAM_API_KEY"
 ```
 
-![Uygulama Ekran Görüntüsü](images/screenshot.png)
+![Uygulama Ekran Görüntüsü](images.jpeg)
